@@ -1,0 +1,40 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Por que o Marcel Van Hattem é considerado galã e o Costinha, não?",
+      "autoria": "Gpt",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "A terra plana capota",
+      "autoria": "Gpt",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 3,
+      "conteudo": "Acredite em si mesmo e todos os seus sonhos se tornarão realidade.",
+      "autoria": "Gpt",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 5,
+      "conteudo": "Cada novo dia é uma nova chance para você brilhar.",
+      "autoria": "Gpt",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "teste de pensamento 2.....",
+      "autoria": "eu mesma",
+      "modelo": "modelo1",
+      "id": 7
+    },
+    {
+      "conteudo": "o queen é a melhor banda",
+      "autoria": "alicia",
+      "modelo": "modelo1",
+      "id": 8
+    }
+  ]
+}
